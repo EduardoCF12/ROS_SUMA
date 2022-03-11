@@ -1,0 +1,9 @@
+<launch>
+
+<node pkg="Tarearb" type="tarea.py" name="nodtar" output="screen">
+</node>
+
+<node pkg="Tarearb" type="tarea.py" name="sub" output="screen">
+</node>
+
+</launch>
